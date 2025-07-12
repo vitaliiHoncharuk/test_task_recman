@@ -1,4 +1,5 @@
 import type { TBoard, TColumn, TTask } from '../../../shared/types';
+import type { CompletionFilter } from './enums';
 export type { TBoard, TColumn, TTask } from '../../../shared/types';
 export { CompletionFilter } from './enums';
 
